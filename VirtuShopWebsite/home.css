@@ -1,0 +1,31 @@
+.fourSteps li {
+	font-size: 30px;
+
+}
+
+#backgroundC {
+	background-color: #202829;
+}
+
+#jumbotron {
+	padding: 32px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+}
+
+#headingOne {
+	font-size: 30px;
+}
+
+#introBody {
+	margin-top: 50px;
+}
+
+img {
+	wdith: 100%;
+	height: auto;
+}
+
+
+
